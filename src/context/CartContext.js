@@ -32,6 +32,7 @@ export function CartProvider({ children }) {
         return [...prevCart, { itemId, quantity }]
       }
     })
+    console.log("cart after update:", cart.length)
   }
 
   function removeFromCart(itemId) {

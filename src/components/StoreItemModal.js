@@ -41,9 +41,11 @@ export default function StoreItemModal({ item, open, closeModal }) {
         <div className="container px-4 py-4 mx-auto">
           <div className="mx-auto flex items-center">
             <img
-              alt="ecommerce"
+              height={120}
+              width={120}
+              alt={item.name}
               className="object-cover object-center rounded"
-              src={`https://dummyimage.com/150x150/${item.imageColor}/${item.imageColor}`}
+              src={item.image}
             />
             <div className="pl-8 py-2">
               <h2 className="text-sm title-font text-gray-500 tracking-widest">

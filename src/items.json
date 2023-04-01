@@ -1,66 +1,66 @@
 [
   {
     "id": 1,
-    "name": "Red",
-    "category": "Primary Color",
+    "name": "Carrot",
+    "category": "Vegetables",
     "priceCents": 1600,
-    "imageColor": "F00",
+    "image": "https://www.jiomart.com/images/product/600x600/590003546/carrot-orange-500-g-product-images-o590003546-p590003546-0-202203151011.jpg",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
   },
   {
     "id": 2,
-    "name": "Yellow",
-    "category": "Primary Color",
+    "name": "Beetroot",
+    "category": "Vegetables",
     "priceCents": 2100,
-    "imageColor": "FF0",
+    "image": "https://www.jiomart.com/images/product/600x600/590003540/beetroot-500-g-product-images-o590003540-p590003540-0-202203141904.jpg",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
   },
   {
     "id": 3,
-    "name": "Blue",
-    "category": "Primary Color",
+    "name": "Tomato",
+    "category": "Vegetables",
     "priceCents": 1200,
-    "imageColor": "00F",
+    "image": "https://www.jiomart.com/images/product/600x600/590003517/tomato-1-kg-product-images-o590003517-p590003517-0-202203170629.jpg",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
   },
   {
     "id": 4,
-    "name": "Orange",
-    "category": "Secondary Color",
+    "name": "Brinjal",
+    "category": "Vegetables",
     "priceCents": 1800,
-    "imageColor": "F60",
+    "image": "https://www.jiomart.com/images/product/600x600/590004102/brinjal-purple-striped-500-g-product-images-o590004102-p590004102-0-202203150748.jpg",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
   },
   {
     "id": 5,
-    "name": "Green",
-    "category": "Secondary Color",
+    "name": "Lady's Finger",
+    "category": "Vegetables",
     "priceCents": 1600,
-    "imageColor": "0F0",
+    "image": "https://www.jiomart.com/images/product/600x600/590003550/bhendi-okra-500-g-product-images-o590003550-p590003550-0-202203170339.jpg",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
   },
   {
     "id": 6,
-    "name": "Purple",
-    "category": "Secondary Color",
+    "name": "Orange",
+    "category": "Fruits",
     "priceCents": 2100,
-    "imageColor": "60F",
+    "image": "https://www.jiomart.com/images/product/600x600/590000025/orange-imported-1-kg-product-images-o590000025-p590000025-0-202203171007.jpg",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
   },
   {
     "id": 7,
-    "name": "Light Gray",
-    "category": "Grayscale",
+    "name": "Mango",
+    "category": "Fruits",
     "priceCents": 1200,
-    "imageColor": "AAA",
+    "image": "https://www.jiomart.com/images/product/600x600/590009518/mango-totapuri-4-pcs-approx-1200-g-1400-g-product-images-o590009518-p590177429-0-202204261843.jpg",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
   },
   {
     "id": 8,
-    "name": "Dark Gray",
-    "category": "Grayscale",
+    "name": "Apple",
+    "category": "Fruits",
     "priceCents": 1600,
-    "imageColor": "333",
+    "image": "https://www.jiomart.com/images/product/420x420/599991650/apple-pink-lady-premium-imported-6-pc-approx-1-10-kg-1-30-kg-product-images-o599991650-p598731802-0-202302240954.jpg",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
   }
 ]

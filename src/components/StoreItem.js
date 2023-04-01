@@ -16,11 +16,11 @@ export default function StoreItem({ item }) {
   return (
     <>
       <div className="lg:w-1/4 w-1/2 p-3">
-        <div className="block relative h-24 rounded overflow-hidden">
+        <div className="block relative h-32 rounded overflow-hidden">
           <img
-            alt="e-commerce"
-            className="object-cover object-center w-full h-full block"
-            src={`https://dummyimage.com/210x140/${item.imageColor}/${item.imageColor}`}
+            alt={item.name}
+            className="object-contain object-center w-full h-full block"
+            src={item.image}
           />
         </div>
         <div className="mt-4 flex items-end justify-between">

@@ -13,8 +13,8 @@ export default function CartItem({ entry }) {
     <div className="mb-6">
       <div className="block relative h-24 rounded overflow-hidden">
         <img
-          alt="ecommerce"
-          src={`https://dummyimage.com/210x130/${entry.item.imageColor}/${entry.item.imageColor}`}
+          alt={entry.item.name}
+          src={entry.item.image}
           className="object-cover object-center w-full h-full block rounded"
         />
         <button
